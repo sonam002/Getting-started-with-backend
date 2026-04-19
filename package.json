@@ -1,0 +1,16 @@
+{
+  "name": "getting-started-with-backend",
+  "version": "1.0.0",
+  "description": "getting started with backend",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "sonam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
